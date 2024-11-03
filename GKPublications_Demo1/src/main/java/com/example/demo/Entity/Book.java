@@ -85,7 +85,7 @@ public class Book {
     private void onPersistOrUpdate() {
         calculateFinalPrice();
 
-     System.out.println("This is my first change in git hub");
+     System.out.println("This is my  stash change in git hub");
     }
 
 }
