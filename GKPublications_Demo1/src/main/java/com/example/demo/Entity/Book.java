@@ -84,6 +84,8 @@ public class Book {
     @PreUpdate
     private void onPersistOrUpdate() {
         calculateFinalPrice();
+
+     System.out.println("This is my first change in git hub");
     }
 
 }
